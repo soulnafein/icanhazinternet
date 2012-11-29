@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+}
+body {
+  background: black;
+  color: white;
+  height: 100%;
+}
+
+table {
+  height: 100%;
+  width: 100%;
+}
+
+td {
+  font-size: 120px;
+  text-align: center;
+  vertical-align: middle;
+}
